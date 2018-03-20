@@ -17,14 +17,14 @@ neither logo should be used on grey backgrounds (see "Repository Contents"
 for other options).*
 
 ### For White Backgrounds
-![platformlab-logo-vFINAL-color-pos.png](light backgrounds/platformlab-logo-vFINAL-color-pos.png)
+![platformlab-logo-vFINAL-color-pos.png](light%20backgrounds/platformlab-logo-vFINAL-color-pos.png)
 
 Use this logo if you would like to place the logo on a white background; the
 darker lettering for "PLATFORM" help the word stand out on a light background.
 The PNG file features a vectorized logo and transparent background.
 
 ### For Black Backgrounds
-![platformlab-logo-vFINAL-color-neg.png](dark backgrounds/platformlab-logo-vFINAL-color-neg.png)
+![platformlab-logo-vFINAL-color-neg.png](dark%20backgrounds/platformlab-logo-vFINAL-color-neg.png)
 
 Use this logo if you would like to place the logo on a black background; the
 lighter lettering for "PLATFORM" help the word stand out on a dark background.
@@ -37,13 +37,13 @@ The PNG file contains a vectorized logo and transparent background.
 logo as well as the recommended accompanying color palate.
 
 ### light backgrounds
-The [light backgrounds](light backgrounds) directory contains logos intended
+The [light%20backgrounds](light backgrounds) directory contains logos intended
 from use on light (white or near white) backgrounds. Logos are available in
 color, greyscale, and monochrome in various file formats. Versions with
 transparent backgrounds are also available.
 
 ### dark backgrounds
-The [dark backgrounds](dark backgrounds) directory contains logos intended for
+The [dark%20backgrounds](dark backgrounds) directory contains logos intended for
 use on dark (black or near back) backgrounds. Logos are available in color,
 greyscale, and monochrome in various file formats. Versions with transparent
 backgrounds are also available.
