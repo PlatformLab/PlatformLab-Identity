@@ -37,13 +37,13 @@ The PNG file contains a vectorized logo and transparent background.
 logo as well as the recommended accompanying color palate.
 
 ### light backgrounds
-The [light%20backgrounds](light backgrounds) directory contains logos intended
+The [light backgrounds](light%20backgrounds) directory contains logos intended
 from use on light (white or near white) backgrounds. Logos are available in
 color, greyscale, and monochrome in various file formats. Versions with
 transparent backgrounds are also available.
 
 ### dark backgrounds
-The [dark%20backgrounds](dark backgrounds) directory contains logos intended for
+The [dark backgrounds](dark%20backgrounds) directory contains logos intended for
 use on dark (black or near back) backgrounds. Logos are available in color,
 greyscale, and monochrome in various file formats. Versions with transparent
 backgrounds are also available.
